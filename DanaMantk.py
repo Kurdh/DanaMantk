@@ -91,7 +91,7 @@ def info_ga():
      %sCOMMAND                      DESCRIPTION%s
   -------------       -------------------------------------
 
-   get_data           fetching all friends data
+   get_data           ڕاکێشانی زانیاری هاوڕێکانت
    get_info           show information about your friend
 
    dump_id            fetching all id from friend list
