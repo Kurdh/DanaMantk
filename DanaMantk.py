@@ -91,7 +91,7 @@ def info_ga():
      %sCOMMAND                      DESCRIPTION%s
   -------------       -------------------------------------
 
-   get_data           ڕاکێشانی زانیاری هاوڕێکانت
+   get_data           rakeshany zanyary hawrekant
    get_info           show information about your friend
 
    dump_id            fetching all id from friend list
@@ -117,7 +117,7 @@ def menu_bot():
  ---------   ------------------------------------
 
    [ 01 ]      auto reactions
-   [ 02 ]      لێدوانی تۆماتیکی
+   [ 02 ]      ledwany tomatiky
    [ 03 ]      auto poke
    [ 04 ]      accept all friend requests
    [ 05 ]      delete all posts in your timeline
