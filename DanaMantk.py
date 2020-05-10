@@ -117,7 +117,7 @@ def menu_bot():
  ---------   ------------------------------------
 
    [ 01 ]      auto reactions
-   [ 02 ]      auto comment
+   [ 02 ]      لێدوانی تۆماتیکی
    [ 03 ]      auto poke
    [ 04 ]      accept all friend requests
    [ 05 ]      delete all posts in your timeline
